@@ -38,6 +38,6 @@
 - shreyasrivastav26@gmail.com
 - medium.com/@shreyasrivastav26
 - https://twitter.com/S__Shreya
-- www.linkedin.com/in/shreya-srivastava-422720243
+- www.linkedin.com/in/shreyasri26
 
 ---
