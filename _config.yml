@@ -6,8 +6,10 @@
 title: Shreya Srivastava # your name (or website title) here
 logo: "/images/logo.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Scientist
-  <br><br>
+  <div style="text-align:center;">
+  <strong>Data Scientist</strong>
+</div>
+  <br>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
