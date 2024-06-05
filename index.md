@@ -1,7 +1,6 @@
-## Welcome to Page Which Contains My Work Samples:
+## Data Alchemy: Welcome to My Portfolio:
 
-- I love Data! And this is my journey into trying to become a Data Scientist which can help business strategize better.
-- Contributor at AnalyticsVidhya (Medium).
+- With two years of experience as a data scientist, I am passionate about leveraging data to drive business strategy and innovation. Here, you'll find a collection of my work, showcasing my skills and contributions in the field. I am also a contributor to Analytics Vidhya on Medium, where I share my insights and knowledge.
 
 
 ### Personal Projects-
@@ -22,6 +21,8 @@
 
 ---
 
+- [Understanding t-SNE](https://medium.com/@shreyasrivastav26/understanding-t-sne-a-powerful-technique-for-visualising-high-dimensional-data-7df77bf0b408)
+- 
 - [Detecting Diseases In Plants](https://medium.com/analytics-vidhya/plants-doctor-detecting-diseases-in-plants-e5c44c569bdb)
 
 - [Machine Translation](https://medium.com/analytics-vidhya/machine-translation-encoder-decoder-model-7e4867377161)
@@ -32,12 +33,66 @@
 
 ---
 
+### Technical Skills-
+
+---
+
+
+#### Programming Languages:
+- Python
+
+#### Data Analysis and Visualization:
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
+
+#### Machine Learning:
+- Scikit-learn
+- TensorFlow
+- Keras
+- XGBoost
+- LightGBM
+- KNN
+- Logistic Regression
+- Naive Bayes
+- Support Vector Machine
+- Linear Regression
+- Random Forest
+
+#### Deep Learning:
+- Convolutional Neural Networks (CNN)
+- Recurrent Neural Networks (RNN)
+- Natural Language Processing (NLP)
+- Transfer Learning
+- Image Recognition
+
+#### Data Manipulation and Preprocessing:
+- SQL
+- Regular Expressions
+- Data Cleaning
+- Feature Engineering
+
+#### Tools and Libraries:
+- Jupyter Notebook
+- Git
+- VS Code
+- Microsoft Azure
+
+#### Other Skills:
+- Statistical Analysis
+- Exploratory Data Analysis (EDA)
+- Dimensionality Reduction Techniques (PCA, t-SNE)
+- Model Evaluation and Hyperparameter Tuning
+
+---
+
 ### Contact Me:
 ---
 
 - shreyasrivastav26@gmail.com
 - medium.com/@shreyasrivastav26
-- https://twitter.com/S__Shreya
 - www.linkedin.com/in/shreyasri26
 
 ---
