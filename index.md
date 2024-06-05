@@ -8,10 +8,8 @@
 ---
 
 - [Object Segmentation-Malaria Bounding Boxes](https://github.com/ShreyaSrivastav00/object-segmentation)
-
-
+  
 - [Plant's Doctor-Detecting Diseases In Plants](https://github.com/ShreyaSrivastav00/plant-disease-detection)
-
 
 - [Santander Customer Transaction Prediction](https://github.com/ShreyaSrivastav00/Santander-customer-transaction-prediction)
 
@@ -42,48 +40,22 @@
 - Python
 
 #### Data Analysis and Visualization:
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Plotly
+- Pandas,NumPy,Matplotlib,Seaborn,Plotly
 
 #### Machine Learning:
-- Scikit-learn
-- TensorFlow
-- Keras
-- XGBoost
-- LightGBM
-- KNN
-- Logistic Regression
-- Naive Bayes
-- Support Vector Machine
-- Linear Regression
-- Random Forest
+- Scikit-learn,TensorFlow,Keras,XGBoost,KNN,Logistic Regression,Naive Bayes,Support Vector Machine,Linear Regression,Random Forest
 
 #### Deep Learning:
-- Convolutional Neural Networks (CNN)
-- Recurrent Neural Networks (RNN)
-- Natural Language Processing (NLP)
-- Transfer Learning
-- Image Recognition
+- Convolutional Neural Networks (CNN),Recurrent Neural Networks (RNN),Natural Language Processing (NLP),Transfer Learning,Image Recognition
 
 #### Data Manipulation and Preprocessing:
-- SQL
-- Regular Expressions
-- Data Cleaning
-- Feature Engineering
+- SQL,Regular Expressions,Data Cleaning,Feature Engineering
 
 #### Tools and Libraries:
-- Jupyter Notebook
-- Git
-- VS Code
-- Microsoft Azure
+- Jupyter Notebook,Git,VS Code,Microsoft Azure
 
 #### Other Skills:
-- Statistical Analysis
-- Exploratory Data Analysis (EDA)
-- Dimensionality Reduction Techniques (PCA, t-SNE)
+- Statistical Analysis,Exploratory Data Analysis (EDA),Dimensionality Reduction Techniques (PCA, t-SNE)
 - Model Evaluation and Hyperparameter Tuning
 
 ---
