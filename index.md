@@ -22,7 +22,7 @@
 ---
 
 - [Understanding t-SNE](https://medium.com/@shreyasrivastav26/understanding-t-sne-a-powerful-technique-for-visualising-high-dimensional-data-7df77bf0b408)
-- 
+  
 - [Detecting Diseases In Plants](https://medium.com/analytics-vidhya/plants-doctor-detecting-diseases-in-plants-e5c44c569bdb)
 
 - [Machine Translation](https://medium.com/analytics-vidhya/machine-translation-encoder-decoder-model-7e4867377161)
